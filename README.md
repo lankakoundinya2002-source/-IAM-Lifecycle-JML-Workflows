@@ -252,7 +252,7 @@ Step 11: Close ServiceNow ticket & final audit log entry
 **Sai Koundinya Lanka**
 IAM & Cloud Security Engineer | SC-300 Aspirant
 📧 lankakoundinya2002@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/sai-koundiinya)
+🔗 [LinkedIn](https://www.linkedin.com/in/sai-koundinya-iam-engineer/)
 📍 Hyderabad, Telangana, India
 
 ---
